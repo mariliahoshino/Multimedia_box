@@ -1,7 +1,7 @@
 # Multimedia_box
 How to make a multimedia box
 
-Project workin in Instagram <br>
+Project working in Instagram <br>
 
 
 Using components bought in Aliexpress, I could make a good multimedia box <br>
